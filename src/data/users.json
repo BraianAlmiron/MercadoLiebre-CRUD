@@ -1,0 +1,18 @@
+[
+   {
+      "id": 1,
+      "name": "Braian",
+      "surname": "Almiron",
+      "email": "braianpatricio1@gmail.com",
+      "password": "$2a$12$JmrfxrIWKH8ljr2FnWLrwuhkdxzsr2.8hd26iAzSdE2AVAAhYatDu",
+      "rol": "user"
+   },
+   {
+      "id": 2,
+      "name": "eric",
+      "surname": "mena",
+      "email": "eric@gmail.com",
+      "password": "$2a$12$sZLYACv4SF7N8s8cOD5e...AZONVzJPRJXfSXf47Z6AQXIhqPhm2C",
+      "rol": "user"
+   }
+]
